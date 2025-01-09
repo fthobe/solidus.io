@@ -1,5 +1,8 @@
 ---
 versions:
+  - number: v4.4
+    release_date: 2023-11-12
+    eol_date: 2026-05-06
   - number: v4.1
     release_date: 2023-06-29
     eol_date: 2024-12-29
